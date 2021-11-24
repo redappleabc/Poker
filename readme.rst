@@ -5,8 +5,6 @@ This pokerbot plays automatically on Pokerstars, Partypoker and GG Poker. Any ot
 It works with image recognition, montecarlo simulation and a basic genetic algorithm.
 The mouse is moved automatically and the bot can potentially play for hours based on a large number of parameters.
 
-You can download the binaries and run the executable directly from here:
-https://sourceforge.net/projects/partypoker-pokerstars-pokerbot/
 
 Running the bot:
 ----------------
